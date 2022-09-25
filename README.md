@@ -47,6 +47,13 @@ FullStack Developer
     
 </div>
 
+<div>
+
+[![codewars](https://www.codewars.com/users/terriblecode/badges/micro)](https://www.codewars.com/users/terriblecode) 
+
+
+</div>
+
 </div>
 
 
