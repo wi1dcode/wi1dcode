@@ -4,7 +4,6 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=wi1dcode&style=for-the-badge&color=blueviolet" alt="views"/>
 </div>
-*Пример*  
 
   <hr>  
 
