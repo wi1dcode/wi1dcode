@@ -6,7 +6,13 @@
   
 ```
 FullStack Developer
-Projects: ( some big projects are not deployed* )
+```
+  
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wi1dcode&style=for-the-badge&color=blueviolet" alt="views"/>
+  Projects: ( some big projects are not deployed* )
 Theorem: https://theorem-concept.fr/
 WildMail: https://github.com/WildCodeSchool/2311-wns-jaune-wild-mail
 Origin Digital: https://github.com/wi1dcode/p3-origin-digital
@@ -14,12 +20,6 @@ Rick & Morty Game: https://rmbattle.netlify.app/
 BlackJack Game: https://blxckjack.netlify.app/
 Simple questions game: https://burgerteam.netlify.app/
 Simple pokemons list: https://pokkemon.netlify.app/
-```
-  
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wi1dcode&style=for-the-badge&color=blueviolet" alt="views"/>
 </div>
 
 ***
