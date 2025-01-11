@@ -30,10 +30,6 @@ FullStack Developer
   </p>
 </div>
 
----
-
-
-
 ***
 
 <div align="center">
