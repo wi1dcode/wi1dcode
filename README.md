@@ -17,7 +17,7 @@ FullStack Developer
 ---
 
 <div align="center">
-  <h3>🚀 Projects (some big projects are not deployed*)</h3>
+  <h3>🚀 Projects (a couple of projects are not deployed)</h3>
 
   <p>
     <a href="https://theorem-concept.fr/" target="_blank"><strong>Theorem (React, Express, Nginx - Ubuntu)</strong></a><br>
