@@ -12,17 +12,27 @@ FullStack Developer
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wi1dcode&style=for-the-badge&color=blueviolet" alt="views"/>
+</div>
 
-  <div align="center">
-  Projects: ( some big projects are not deployed* )
-Theorem: https://theorem-concept.fr/
-WildMail: https://github.com/WildCodeSchool/2311-wns-jaune-wild-mail
-Origin Digital: https://github.com/wi1dcode/p3-origin-digital
-Rick & Morty Game: https://rmbattle.netlify.app/
-BlackJack Game: https://blxckjack.netlify.app/
-Simple questions game: https://burgerteam.netlify.app/
-Simple pokemons list: https://pokkemon.netlify.app/
-</div></div>
+---
+
+<div align="center">
+  <h3>🚀 Projects (some big projects are not deployed*)</h3>
+
+  <p>
+    <a href="https://theorem-concept.fr/" target="_blank"><strong>Theorem</strong></a><br>
+    <a href="https://github.com/WildCodeSchool/2311-wns-jaune-wild-mail" target="_blank"><strong>WildMail</strong></a><br>
+    <a href="https://github.com/wi1dcode/p3-origin-digital" target="_blank"><strong>Origin Digital</strong></a><br>
+    <a href="https://rmbattle.netlify.app/" target="_blank"><strong>Rick & Morty Game</strong></a><br>
+    <a href="https://blxckjack.netlify.app/" target="_blank"><strong>BlackJack Game</strong></a><br>
+    <a href="https://burgerteam.netlify.app/" target="_blank"><strong>Simple Questions Game</strong></a><br>
+    <a href="https://pokkemon.netlify.app/" target="_blank"><strong>Simple Pokemons List</strong></a>
+  </p>
+</div>
+
+---
+
+
 
 ***
 
